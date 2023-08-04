@@ -13,7 +13,13 @@
   "description": "",
   "dependencies": {
     "express": "^4.17.1",
-    "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5"
+    "glob-parent": "^6.0.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^4.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "babel-loader": "^8.2.2"
   }
 }
